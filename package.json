@@ -1,0 +1,27 @@
+{
+  "name": "monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitsingh6978/monitoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitsingh6978/monitoring/issues"
+  },
+  "homepage": "https://github.com/rohitsingh6978/monitoring#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.1",
+    "node-schedule": "^2.1.1",
+    "os-utils": "^0.0.14"
+  }
+}
